@@ -9,9 +9,9 @@ fuzzing. Below I have some projects that I have worked on.
 
 ## Projects
 #### [Tuscan-Leather](http://github.com/SmoothHacker/Tuscan-Leather)
-A snapshot fuzzer for the Linux Kernel, written from scratch with only C++ and KVM. 
+A WIP snapshot fuzzer for the Linux Kernel, written in C++ using KVM. 
 #### [TypeLib-Exporter](https://github.com/SmoothHacker/TypeLib-Exporter)
-A binary ninja plugin that allows uses to export type libraries from existing 
-bndbs and apply type libraries to existing bndbs
-#### [Plague-Doctor]() - *Coming Soon*
+A Binary Ninja plugin that allows uses to export type libraries from bndbs and apply type libraries to existing bndbs.
+#### [bn_riscv64](https://github.com/SmoothHacker/bn_riscv64)
+A Binary Ninja architecture plugin that provides support for RISCV-64i using a custom disassembler written in C++.
 
